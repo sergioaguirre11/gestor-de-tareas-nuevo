@@ -1,0 +1,10 @@
+C:\Users\cheer\source\repos\gestionador de tareas\gestionador de tareas\bin\Debug\gestionador de tareas.exe.config
+C:\Users\cheer\source\repos\gestionador de tareas\gestionador de tareas\bin\Debug\gestionador de tareas.exe
+C:\Users\cheer\source\repos\gestionador de tareas\gestionador de tareas\bin\Debug\gestionador de tareas.pdb
+C:\Users\cheer\source\repos\gestionador de tareas\gestionador de tareas\obj\Debug\gestionador_de_tareas.Gestor.resources
+C:\Users\cheer\source\repos\gestionador de tareas\gestionador de tareas\obj\Debug\gestionador_de_tareas.Properties.Resources.resources
+C:\Users\cheer\source\repos\gestionador de tareas\gestionador de tareas\obj\Debug\gestionador de tareas.csproj.GenerateResource.cache
+C:\Users\cheer\source\repos\gestionador de tareas\gestionador de tareas\obj\Debug\gestionador de tareas.csproj.CoreCompileInputs.cache
+C:\Users\cheer\source\repos\gestionador de tareas\gestionador de tareas\obj\Debug\gestionador de tareas.exe
+C:\Users\cheer\source\repos\gestionador de tareas\gestionador de tareas\obj\Debug\gestionador de tareas.pdb
+C:\Users\cheer\source\repos\gestionador de tareas\gestionador de tareas\obj\Debug\gestionador de tareas.csprojAssemblyReference.cache
